@@ -43,9 +43,4 @@ public partial class _Default : System.Web.UI.Page {
         else if (e.CommandId == SchedulerCallbackCommandId.ClientSideInsertAppointment)
             e.Command = new CustomInsertAppointmentCommand((ASPxScheduler)sender);
     }
-
-    protected void ASPxScheduler1_PopupMenuShowing(object sender, PopupMenuShowingEventArgs e)
-    {
-        e.Menu.ClientSideEvents.ItemClick = "OnMenuItemClick";
-    }
 }
