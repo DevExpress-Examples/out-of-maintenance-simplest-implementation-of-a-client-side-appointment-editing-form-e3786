@@ -47,8 +47,4 @@ Partial Public Class _Default
             e.Command = New CustomInsertAppointmentCommand(DirectCast(sender, ASPxScheduler))
         End If
     End Sub
-
-    Protected Sub ASPxScheduler1_PopupMenuShowing(ByVal sender As Object, ByVal e As PopupMenuShowingEventArgs)
-        e.Menu.ClientSideEvents.ItemClick = "OnMenuItemClick"
-    End Sub
 End Class
