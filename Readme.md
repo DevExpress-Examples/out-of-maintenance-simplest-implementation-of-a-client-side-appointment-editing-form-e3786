@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomControllerAndCommands.cs](./CS/WebSite/App_Code/CustomControllerAndCommands.cs) (VB: [CustomControllerAndCommands.vb](./VB/WebSite/App_Code/CustomControllerAndCommands.vb))
+* [ScriptAppointmentForm.ascx](./CS/WebSite/CustomForms/ScriptAppointmentForm.ascx) (VB: [ScriptAppointmentForm.ascx.vb](./VB/WebSite/CustomForms/ScriptAppointmentForm.ascx.vb))
+* [ScriptAppointmentForm.ascx.cs](./CS/WebSite/CustomForms/ScriptAppointmentForm.ascx.cs) (VB: [ScriptAppointmentForm.ascx.vb](./VB/WebSite/CustomForms/ScriptAppointmentForm.ascx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # Simplest implementation of a client-side appointment editing form
 
 
