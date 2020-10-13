@@ -1,8 +1,8 @@
 <%@ Control Language="C#" AutoEventWireup="true" CodeFile="ScriptAppointmentForm.ascx.cs" Inherits="CustomForms_ScriptAppointmentForm" %>
 
-<%@ Register Assembly="DevExpress.Web.v18.1, Version=18.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dxe" %>
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.1, Version=18.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler.Controls" TagPrefix="dxsc" %>
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.1, Version=18.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dxwschs" %>
+<%@ Register Assembly="DevExpress.Web.v18.1, Version=18.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dxe" %>
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.1, Version=18.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler.Controls" TagPrefix="dxsc" %>
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.1, Version=18.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dxwschs" %>
 
 <table class="dxscAppointmentForm" style="width: 600px; height: 100px;">
     <tr>
